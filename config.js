@@ -32,67 +32,67 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['6282119280174', 'Owner', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6285707138475'
+global.nomorown = '6282119280174'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Nao-MD ESM'
-global.wm = '© Nao-MD By Shirokami Ryzen'
+global.author = 'Owner'
+global.namebot = 'Whatsapp Bot'
+global.wm = 'Whatsapp Bot'
 global.watermark = wm
-global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
-global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-MD ESM\n+${nomorbot}`
-global.stickauth = `© Nao-MD By Shirokami Ryzen`
+global.botdate = `Date: ${week} ${date}\n 𝗧𝗶𝗺𝗲: ${wktuwib}`
+global.bottime = `Time : ${wktuwib}`
+global.stickpack = `Whatsapp Bot`
+global.stickauth = `Sticker`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen'
-global.sgc = 'https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J'
-global.sgw = 'https://ryzendesu.vip'
-global.sdc = '-'
-global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.sig = ''
+global.sgh = ''
+global.sgc = ''
+global.sgw = ''
+global.sdc = ''
+global.sfb = ''
+global.snh = ''
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
-global.povo = '-'
-global.pgopay = '085174269046'
-global.plinkaja = '-'
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
-global.psaweria = 'https://saweria.co/shirokamiryzen'
-global.bank1 = '109901209640'
-global.bank2 = '-'
+global.pdana = ''
+global.povo = ''
+global.pgopay = ''
+global.plinkaja = ''
+global.ppulsa = ''
+global.ppulsa2 = ''
+global.psaweria = ''
+global.bank1 = ''
+global.bank2 = ''
 
 
 /*============= TAMPILAN =============*/
-global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊↬' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
-global.dashmenu = '┅═┅═❏ *DASHBOARD* ❏═┅═┅'
-global.cmenut = '❏––––––『' //top
-global.cmenuh = '』––––––' //header
-global.cmenub = '┊✦ ' //body
-global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
-global.pmenus = '✦'
-global.htki = '––––––『' // Hiasan Titile (KIRI)
-global.htka = '』––––––' // Hiasan Title  (KANAN)
+global.dmenut = '' //top
+global.dmenub = '' //body
+global.dmenub2 = '' //body for info cmd on Default menu
+global.dmenuf = '' //footer
+global.dashmenu = ''
+global.cmenut = '' //top
+global.cmenuh = '' //header
+global.cmenub = '' //body
+global.cmenuf = '\n' //footer
+global.cmenua = '\n\n     '
+global.pmenus = ''
+global.htki = '' // Hiasan Titile (KIRI)
+global.htka = '' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
-global.htjava = '⫹⫺'    //hiasan Doang :v
-global.hsquere = ['⛶','❏','⫹⫺']
+global.htjava = ''    //hiasan Doang :v
+global.hsquere = ['','','']
 
 /*============= RESPON =============*/
-global.wait = 'Please Wait...'
+global.wait = 'Await'
 global.eror = 'Error!'
 
 /*============= WEB API KEY =============*/
@@ -157,8 +157,8 @@ watchFile(file, () => {
 })
 
 /*============= RESPON GAME =============*/
-global.benar = 'Good Job! ◕◡◕'
-global.salah = 'Not Bad! ◕◠◕'
+global.benar = 'Good Job!'
+global.salah = 'Incorrect'
 global.dikit = "Dikit Lagi, Semangat!!"
 
 
